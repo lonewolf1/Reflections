@@ -1,1 +1,4 @@
 Using a remote repository
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks allow copy of someone else's file form github for me to edit. clone allows me to copy files between any repositories and locally branches are used locally to edit files 
+ 
